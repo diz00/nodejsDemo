@@ -1,0 +1,3 @@
+{"level":"error","message":"Mongoose connection error: MongoError: failed to connect to server [ds163301.mlab.con:63301] on first connect [MongoError: getaddrinfo ENOTFOUND ds163301.mlab.con ds163301.mlab.con:63301]","timestamp":"2017-06-12T13:19:05.147Z"}
+{"level":"error","message":"Mongoose connection error: MongoError: failed to connect to server [ds163301.mlab.con:63301] on first connect [MongoError: getaddrinfo ENOTFOUND ds163301.mlab.con ds163301.mlab.con:63301]","timestamp":"2017-06-12T13:19:47.200Z"}
+{"level":"error","message":"Mongoose connection error: MongoError: failed to connect to server [ds163301.mlab.con:63301] on first connect [MongoError: getaddrinfo ENOTFOUND ds163301.mlab.con ds163301.mlab.con:63301]","timestamp":"2017-06-12T13:23:17.157Z"}
