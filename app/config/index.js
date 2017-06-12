@@ -19,7 +19,7 @@ if (process.env.NODE_ENV === 'production') {
         },
         twitter: {
             consumerKey: process.env.twConsumerKey,
-            consumerSecret: process.env.twConsumeSecret,
+            consumerSecret: process.env.twConsumerSecret,
             callbackURL: process.env.host + "/auth/twitter/callback",
             profileFields: ['id',  'displayName', 'photos']
         },
